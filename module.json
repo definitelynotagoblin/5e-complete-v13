@@ -1,7 +1,7 @@
 {
     "id": "5e-complete",
     "title": "5e Complete Compendium",
-    "version": "0.3.13",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "btbias",
@@ -17,7 +17,7 @@
     "compatibility": {
             "minimum": "10",
             "maximum": "13",
-            "verified": "12.327"
+            "verified": "13.339"
     },
     "styles": [
         "css/styles.css"
@@ -29,8 +29,8 @@
                 "type": "system",
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
                 "compatibility": {
-                    "minimum": "3",
-                    "verified": "3.2.1"
+                    "minimum": "4",
+                    "verified": "4.3.8"
                 }
             }
         ]
@@ -165,8 +165,8 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/eugenio-guarino/5e-complete",
-    "manifest": "https://github.com/eugenio-guarino/5e-complete/releases/download/v0.3.13/module.json",
-    "download": "https://github.com/eugenio-guarino/5e-complete/releases/download/v0.3.13/module.zip",
+    "url": "https://github.com/definitelynotagoblin/5e-complete",
+    "manifest": "https://github.com/definitelynotagoblin/5e-complete/releases/download/foundry-v13/module.json",
+    "download": "https://github.com/definitelynotagoblin/5e-complete/releases/download/foundry-v13/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
